@@ -1,4 +1,4 @@
-# This repository holds the python code (along with SQLAlchemy, SQLite, and Flask) to query precipitation data and temperature of Hawaii.
+# This repository holds the python code (along with SQLAlchemy, SQLite, and Flask) to query precipitation and temperature data of Hawaii.
 
 Temperature and precipitation data acquired via CSV files.
 
